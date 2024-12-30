@@ -1,9 +1,3 @@
-
-You want to update your list to include the new stations (from the mapping) and remove the station codes. Here’s the updated code with these changes:
-
-Updated Code
-python
-코드 복사
 station_names_korean = [
     "수서",
     "동탄",
